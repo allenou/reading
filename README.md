@@ -13,9 +13,12 @@
 2. [聪明的投资者]（19/07/14-）
 3. [指数基金投资指南]（19/08/14-09/09）
 
-## 科幻
-1. [三体]
+## 励志
+1. [精进]（19/10/27-）
 
+## 科幻
+1. [三体I]（19/07/09-10/26）
+2. [三体II]（19/10/26-）
 
 [现代操作系统]: https://book.douban.com/subject/3852290/
 [中国近代史-蒋廷黻]: https://book.douban.com/subject/1823751/
@@ -23,3 +26,6 @@
 [富爸爸，穷爸爸]: https://book.douban.com/subject/1033778/
 [聪明的投资者]: https://book.douban.com/subject/26752026/
 [指数基金投资指南]: https://book.douban.com/subject/27204860/
+[三体I]: https://book.douban.com/subject/2567698/
+[三体II]: https://book.douban.com/subject/3066477/
+[精进]: https://book.douban.com/subject/26761696/
