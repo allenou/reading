@@ -1,5 +1,5 @@
 # kindle
-以下是我从 2019 年开始的阅读记录，评分见[豆瓣读书]，:skull: 代表实在读不下去故半途作废的书。
+以下是我从 2019 年开始的阅读记录，评分见[豆瓣读书]，:skull: 代表实在读不下去故半途作废。
 
 ## 技术
 1. [现代操作系统]（19/07/08-）
@@ -18,7 +18,9 @@
 
 ## 科幻
 1. [三体I]（19/07/09-10/26）
-2. [三体II]（19/10/26-）
+2. [三体II]（19/10/26-11/06）
+3. [三体III]（19/11/06-）
+
 
 [现代操作系统]: https://book.douban.com/subject/3852290/
 [中国近代史-蒋廷黻]: https://book.douban.com/subject/1823751/
@@ -28,5 +30,6 @@
 [指数基金投资指南]: https://book.douban.com/subject/27204860/
 [三体I]: https://book.douban.com/subject/2567698/
 [三体II]: https://book.douban.com/subject/3066477/
+[三体III]: https://book.douban.com/subject/5363767/
 [精进]: https://book.douban.com/subject/26761696/
 [豆瓣读书]: https://book.douban.com/people/48061693/collect
