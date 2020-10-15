@@ -1,5 +1,5 @@
 # kindle
-以下是我从 2019 下半年开始的阅读记录，评分见[豆瓣读书]，:skull: 代表半途弃读。
+以下是我从 2019 下半年开始的阅读记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:skull: 代表半途弃读。
 
 ## 技术
 1. [现代操作系统](https://book.douban.com/subject/3852290/)（19/07/08-）
@@ -26,10 +26,4 @@
 2. [自在独行](https://book.douban.com/subject/26802388/)（20/06/02-）
 3. [黑客与画家](https://book.douban.com/subject/6021440/)（20/06/03-）
 4. [沉默的大多数](https://book.douban.com/subject/27013716/)（20/06/11-10/07）
-5. [黄金时代](https://book.douban.com/subject/27013708/)（20/10/07-） 
-
-
-
-
-
-[豆瓣读书]: https://book.douban.com/people/48061693/collect
+5. [黄金时代](https://book.douban.com/subject/27013708/)（20/10/07-10/15） 
