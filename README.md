@@ -1,8 +1,9 @@
 # kindle
-以下是我从 2019 下半年开始的阅读记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:skull: 代表半途弃读。
+以下是我从 2019 下半年开始的阅读记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:thinking: 表暂搁，:skull: 弃读。
 
 ## 技术
 1. [现代操作系统](https://book.douban.com/subject/3852290/)（19/07/08-）
+2. [Flutter实战](https://book.douban.com/subject/34991075/)(20/10/27-)
 
 ## 历史
 1. [中国近代史-蒋廷黻](https://book.douban.com/subject/1823751/)（19/07/08-20/03/01）
@@ -27,3 +28,6 @@
 3. [黑客与画家](https://book.douban.com/subject/6021440/)（20/06/03-）
 4. [沉默的大多数](https://book.douban.com/subject/27013716/)（20/06/11-10/07）
 5. [黄金时代](https://book.douban.com/subject/27013708/)（20/10/07-10/15） 
+6. [爱你就像爱生命](https://book.douban.com/subject/27111096/)（20/10/15-10/25） 
+6. [海子诗全集](https://book.douban.com/subject/3610681/)（20/10/18-） 
+7. [怎样读书](https://book.douban.com/subject/11232958/)(20/11/05-11/08)
