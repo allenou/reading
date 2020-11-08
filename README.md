@@ -1,5 +1,5 @@
 # kindle
-以下是我的读书记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:skull: 表弃读。
+以下是我的阅读记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:thinking: 表没读懂，，:skull: 表弃读。
 
 ## 2020
 
