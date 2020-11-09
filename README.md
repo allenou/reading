@@ -1,5 +1,5 @@
 # kindle
-以下是我的阅读记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:thinking: 表没读懂，，:skull: 表弃读。
+以下是我的阅读记录，评分见[豆瓣读书](https://book.douban.com/people/48061693/collect)，:skull: 表弃读。
 
 ## 2020
 
@@ -9,6 +9,8 @@
 1. [黄金时代](https://book.douban.com/subject/27013708/)（10 月）
 1. [爱你就像爱生命](https://book.douban.com/subject/27111096/)（10 月） 
 1. [怎样读书](https://book.douban.com/subject/11232958/)(11 月)
+1. [海子诗全集](https://book.douban.com/subject/3610681/)(11 月 :skull:)
+1. [鬼吹灯1：精绝古城](https://book.douban.com/subject/26676577/)(11 月:)
 
 ## 2019
 
