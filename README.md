@@ -3,10 +3,10 @@
 以下是我的阅读记录，:skull: 表弃读，远没有看过的电影多，读书使人明智，还是要多看书。
 
 ## 2020
-
-1. [鬼吹灯1：精绝古城](https://book.douban.com/subject/26676577/)(11 月)
-1. [海子诗全集](https://book.douban.com/subject/3610681/)(11 月 :skull:)
-1. [怎样读书](https://book.douban.com/subject/11232958/)(11 月)
+1. [鬼吹灯2：龙岭迷窟](https://book.douban.com/subject/1916726/)（11 月）
+1. [鬼吹灯1：精绝古城](https://book.douban.com/subject/26676577/)（11 月）
+1. [海子诗全集](https://book.douban.com/subject/3610681/)（11 月 :skull:）
+1. [怎样读书](https://book.douban.com/subject/11232958/)（11 月）
 1. [爱你就像爱生命](https://book.douban.com/subject/27111096/)（10 月） 
 1. [黄金时代](https://book.douban.com/subject/27013708/)（10 月）
 1. [沉默的大多数](https://book.douban.com/subject/27013716/)（10 月）
