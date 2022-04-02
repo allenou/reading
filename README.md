@@ -2,6 +2,9 @@
 
 以下是我的阅读记录，:skull: 表弃读，远没有看过的电影多，读书使人明智，还是要多看书。
 
+## 2022
+1. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+
 ## 2020
 
 1. [鬼吹灯之云南虫谷](https://book.douban.com/subject/1926103/)（11 月）
