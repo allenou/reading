@@ -4,6 +4,7 @@
 
 ## 2022
 1. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+2. [深入浅出Vue.js](https://book.douban.com/subject/32581281/) (4 月)
 
 ## 2020
 
