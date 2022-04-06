@@ -1,18 +1,19 @@
 # reading
 
-以下是我的阅读记录，:skull: 表弃读，远没有看过的电影多，读书使人明智，还是要多看书。
+以下是我的阅读记录，:skull: 表弃读，:+1: 表推荐，:-1: 表不推荐，远没有看过的电影多，读书使人明智，还是要多看书。
 
 ## 2022
 1. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
 2. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
 3. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
+4. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
 
 ## 2020
 
 1. [鬼吹灯之云南虫谷](https://book.douban.com/subject/1926103/)（11 月）
 1. [鬼吹灯之龙岭迷窟](https://book.douban.com/subject/1916726/)（11 月）
 1. [鬼吹灯之精绝古城](https://book.douban.com/subject/26676577/)（11 月）
-1. [海子诗全集](https://book.douban.com/subject/3610681/)（11 月 :skull:）
+1. [海子诗全集](https://book.douban.com/subject/3610681/)（11 月）:skull:
 1. [怎样读书](https://book.douban.com/subject/11232958/)（11 月）
 1. [爱你就像爱生命](https://book.douban.com/subject/27111096/)（10 月） 
 1. [黄金时代](https://book.douban.com/subject/27013708/)（10 月）
@@ -22,7 +23,7 @@
 
 ## 2019
 
-1. [精进](https://book.douban.com/subject/26761696/)（11 月 :skull: ）
+1. [精进](https://book.douban.com/subject/26761696/)（11 月） :skull:
 1. [三体III](https://book.douban.com/subject/5363767/)（11 月）
 1. [三体II](https://book.douban.com/subject/3066477/)（11 月）
 1. [三体I](https://book.douban.com/subject/2567698/)（10 月）
