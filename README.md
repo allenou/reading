@@ -3,10 +3,13 @@
 以下是我的阅读记录，:skull: 表弃读，:+1: 表推荐，:-1: 表不推荐，远没有看过的电影多，读书使人明智，还是要多看书。
 
 ## 2022
-1. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
-2. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
-3. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
-4. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
+1. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
+2. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
+3. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
+4. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+
+
+
 
 ## 2020
 
@@ -19,14 +22,14 @@
 1. [黄金时代](https://book.douban.com/subject/27013708/)（10 月）
 1. [沉默的大多数](https://book.douban.com/subject/27013716/)（10 月）
 1. [一只特立独行的猪](https://book.douban.com/subject/27013708/)（6 月）
-1. [中国近代史-蒋廷黻](https://book.douban.com/subject/1823751/)（3 月）
+1. [中国近代史-蒋廷黻](https://book.douban.com/subject/1823751/)（3 月）:+1:
 
 ## 2019
 
 1. [精进](https://book.douban.com/subject/26761696/)（11 月） :skull:
-1. [三体III](https://book.douban.com/subject/5363767/)（11 月）
-1. [三体II](https://book.douban.com/subject/3066477/)（11 月）
-1. [三体I](https://book.douban.com/subject/2567698/)（10 月）
+1. [三体III](https://book.douban.com/subject/5363767/)（11 月）:+1:
+1. [三体II](https://book.douban.com/subject/3066477/)（11 月）:+1:
+1. [三体I](https://book.douban.com/subject/2567698/)（10 月）:+1:
 1. [指数基金投资指南](https://book.douban.com/subject/27204860/)（9 月）
 1. [富爸爸，穷爸爸](https://book.douban.com/subject/1033778/)（7 月）
 
@@ -36,15 +39,15 @@
 
 ## 2015
 
-1. [人生](https://book.douban.com/subject/3803820/)
+1. [人生](https://book.douban.com/subject/3803820/) :+1:
 1. [解忧杂货店](https://book.douban.com/subject/25862578/)
-1. [平凡的世界（全三册）](https://book.douban.com/subject/3523041/)
+1. [平凡的世界（全三册）](https://book.douban.com/subject/3523041/) :+1:
 1. [皮囊](https://book.douban.com/subject/26278687/)
 1. [不去会死！](https://book.douban.com/subject/4618225/)
 
 ## 2014
 
-1. [不为遇见，只为远方](https://book.douban.com/subject/25746547/)
+1. [不为遇见，只为远方](https://book.douban.com/subject/25746547/) :-1:
 
 ## 2012
 
