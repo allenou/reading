@@ -3,11 +3,13 @@
 以下是我的阅读记录，:skull: 表弃读，:+1: 表推荐，:-1: 表不推荐，远没有看过的电影多，读书使人明智，还是要多看书。
 
 ## 2022
-1. [猫力乱步](https://book.douban.com/subject/24883513/) :-1:
-2. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
-3. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
-4. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
-5. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+
+1. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
+2. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
+3. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
+4. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
+5. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
+6. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
 
 ## 2020
 
