@@ -4,12 +4,14 @@
 
 ## 2022
 
-1. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
-2. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
-3. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
-4. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
-5. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
-6. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+1. [我的阴阳两界](https://book.douban.com/subject/30180681/) (4 月)
+2. [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/) (4 月)
+3. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
+4. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
+5. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
+6. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
+7. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
+8. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
 
 ## 2020
 
@@ -46,9 +48,12 @@
 5. [不去会死！](https://book.douban.com/subject/4618225/)
 
 ## 2014
+1. [JavaScript DOM 编程艺术](https://book.douban.com/subject/6038371/)
+2. [高流量网站 CSS 开发技术](https://book.douban.com/subject/6038371/)
+3. [百年孤独](https://book.douban.com/subject/6082808/) :skull:
+4. [不为遇见，只为远方](https://book.douban.com/subject/25746547/) :-1:
 
-1. [不为遇见，只为远方](https://book.douban.com/subject/25746547/) :-1:
-
-## 2012
-
+## 2014 之前
 1. [卡尔·威特的教育](https://book.douban.com/subject/1000904/)
+2. [幻城](https://book.douban.com/subject/3056892/)
+3. [夏洛不哭](https://book.douban.com/subject/2281180/)
