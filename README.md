@@ -1,17 +1,18 @@
-# reading
+# Reading
 
 以下是我的阅读记录，:skull: 表弃读，:+1: 表推荐，:-1: 表不推荐，远没有看过的电影多，读书使人明智，还是要多看书。
 
 ## 2022
 
-1. [我的阴阳两界](https://book.douban.com/subject/30180681/) (4 月)
-2. [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/) (4 月)
-3. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
-4. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
-5. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog) （4 月）:skull: :-1:
-6. [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
-7. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
-8. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+1. [品三国（上）](https://book.douban.com/subject/1829836/) (4 月)
+2. [我的阴阳两界](https://book.douban.com/subject/30180681/) (4 月)
+3. [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)(4 月) :+1:
+4. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
+5. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
+6. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog)（4 月）:skull: :-1:
+7.  [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
+8.  [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
+9.  [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
 
 ## 2020
 
