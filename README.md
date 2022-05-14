@@ -4,6 +4,7 @@
 
 ## 2022
 
+1. [怎样读书好](https://book.douban.com/subject/27599310/) (5 月)
 1. [品三国（上）](https://book.douban.com/subject/1829836/) (4 月)
 2. [我的阴阳两界](https://book.douban.com/subject/30180681/) (4 月)
 3. [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)(4 月) :+1:
