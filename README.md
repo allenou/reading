@@ -4,16 +4,17 @@
 
 ## 2022
 
-1. [怎样读书好](https://book.douban.com/subject/27599310/) (5 月)
-1. [品三国（上）](https://book.douban.com/subject/1829836/) (4 月)
-2. [我的阴阳两界](https://book.douban.com/subject/30180681/) (4 月)
-3. [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)(4 月) :+1:
-4. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
-5. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
-6. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog)（4 月）:skull: :-1:
-7.  [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
-8.  [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
-9.  [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
+1. [1988：我想和这个世界谈谈](https://book.douban.com/subject/5275059/) (5 月)
+2. [怎样读书好](https://book.douban.com/subject/27599310/) (5 月)
+3. [品三国（上）](https://book.douban.com/subject/1829836/) (4 月)
+4. [我的阴阳两界](https://book.douban.com/subject/30180681/) (4 月)
+5. [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)(4 月) :+1:
+6. [半小时漫画中国哲学史](https://book.douban.com/subject/35184261/) (4 月)
+7. [猫力乱步](https://book.douban.com/subject/24883513/) (4 月) :-1:
+8. [重学前端](https://time.geekbang.org/column/intro/100023201?tab=catalog)（4 月）:skull: :-1:
+9.  [剖析 Vue.js 内部运行机制](https://juejin.cn/book/6844733705089449991) (4 月)
+10. [深入浅出 Vue.js](https://book.douban.com/subject/32581281/) (4 月)
+11. [图解 HTTP](https://book.douban.com/subject/25863515/)（4 月）
 
 ## 2020
 
