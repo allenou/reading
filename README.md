@@ -4,7 +4,8 @@
 
 ## 2022
 
-1. [编写可维护的 JavaScript](https://book.douban.com/subject/21792530/) :-1:
+1. [西游记](https://book.douban.com/subject/1029553/) (6 月)
+1. [编写可维护的 JavaScript](https://book.douban.com/subject/21792530/) (5 月) :-1:
 1. [兄弟](https://book.douban.com/subject/20441957/) (5 月) :+1:
 1. [活着](https://book.douban.com/subject/4913064/) (5 月) :+1:
 1. [1988：我想和这个世界谈谈](https://book.douban.com/subject/5275059/) (5 月)
