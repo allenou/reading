@@ -3,6 +3,7 @@
 以下是我的阅读记录，:skull: 表弃读，:+1: 表推荐，:-1: 表不推荐，远没有看过的电影多，读书使人明智，还是要多看书。
 
 ## 2022
+1. [许三观卖血记](https://book.douban.com/subject/4760224/) (7 月) :+1:
 1. [笑傲江湖](https://book.douban.com/subject/1002299/) (6 月) :+1:
 1. [西游记](https://book.douban.com/subject/1029553/) (6 月) :+1:
 1. [编写可维护的 JavaScript](https://book.douban.com/subject/21792530/) (5 月) :-1:
