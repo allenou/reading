@@ -4,6 +4,7 @@
 
 ## 2022
 
+1. [绿毛水怪](https://book.douban.com/subject/30163860/) (9 月) :+1:
 1. [寻找无双](https://book.douban.com/subject/27036978/) (9 月)
 1. [许三观卖血记](https://book.douban.com/subject/4760224/) (7 月) :+1:
 1. [笑傲江湖](https://book.douban.com/subject/1002299/) (6 月) :+1:
