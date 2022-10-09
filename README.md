@@ -4,6 +4,7 @@
 
 ## 2022
 
+1. [追风筝的人](https://book.douban.com/subject/1770782/) (10 月) :+1:
 1. [鬼吹灯之昆仑神宫](https://book.douban.com/subject/1938591/) (9 月)
 1. [绿毛水怪](https://book.douban.com/subject/30163860/) (9 月) :+1:
 1. [寻找无双](https://book.douban.com/subject/27036978/) (9 月)
