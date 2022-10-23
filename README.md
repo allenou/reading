@@ -58,6 +58,8 @@
 1. [人生](https://book.douban.com/subject/3803820/) :+1:
 1. [解忧杂货店](https://book.douban.com/subject/25862578/)
 1. [平凡的世界（全三册）](https://book.douban.com/subject/3523041/) :+1:
+1. [把青春唱完](https://book.douban.com/subject/26580056/)
+1. [我们这一代:最初的面孔](https://book.douban.com/subject/25866762/)
 1. [皮囊](https://book.douban.com/subject/26278687/)
 1. [不去会死！](https://book.douban.com/subject/4618225/)
 
