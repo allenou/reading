@@ -4,7 +4,11 @@
 
 ## 2022
 
-1. [少年凯歌](https://book.douban.com/subject/1091203/) (10月) :+1:
+1. [嫌疑人X的献身](https://book.douban.com/subject/25924253/)
+1. [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/) (11 月) :skull:
+1. [法治的细节](https://book.douban.com/subject/35635639/) (11 月) :skull:
+1. [白夜行](https://book.douban.com/subject/10554308/) (11 月)
+1. [少年凯歌](https://book.douban.com/subject/1091203/) (10 月) :+1:
 1. [追风筝的人](https://book.douban.com/subject/1770782/) (10 月) :+1:
 1. [鬼吹灯之昆仑神宫](https://book.douban.com/subject/1938591/) (9 月)
 1. [绿毛水怪](https://book.douban.com/subject/30163860/) (9 月) :+1:
