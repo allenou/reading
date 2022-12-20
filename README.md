@@ -4,6 +4,7 @@
 
 ## 2022
 
+1. [代码整洁之道](https://book.douban.com/subject/34986245/)
 1. [嫌疑人X的献身](https://book.douban.com/subject/25924253/)
 1. [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/) (11 月) :skull:
 1. [法治的细节](https://book.douban.com/subject/35635639/) (11 月) :skull:
