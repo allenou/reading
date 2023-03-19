@@ -2,10 +2,15 @@
 
 以下是我的阅读记录，:skull: 表弃读，:+1: 表推荐，:-1: 表不推荐，远没有看过的电影多，读书使人明智，还是要多看书。
 
+## 2023
+
+1. [软技能 : 代码之外的生存指南](https://book.douban.com/subject/26835090/)（3 月）
+1. [重构：改善既有代码的设计](https://book.douban.com/subject/30468597/)（1 月）
+
 ## 2022
 
-1. [代码整洁之道](https://book.douban.com/subject/34986245/)
-1. [嫌疑人X的献身](https://book.douban.com/subject/25924253/)
+1. [代码整洁之道](https://book.douban.com/subject/34986245/) (12 月)
+1. [嫌疑人X的献身](https://book.douban.com/subject/25924253/) (11 月)
 1. [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/) (11 月) :skull:
 1. [法治的细节](https://book.douban.com/subject/35635639/) (11 月) :skull:
 1. [白夜行](https://book.douban.com/subject/10554308/) (11 月)
